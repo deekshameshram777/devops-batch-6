@@ -2,4 +2,6 @@ git init
 git add
 git commit -m " "
 git status
-git restore 
+git restore
+git log
+ 
